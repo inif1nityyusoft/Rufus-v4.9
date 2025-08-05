@@ -18,6 +18,14 @@
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="https://github.com/inif1nityyusoft/Rufus-v4.9/raw/main/20250416_183910.jpg" alt="Rufus Screenshot" width="700"/>
+</p>
+
+---
+
 ## 🚀 Installation & Usage
 
 ### ✅ Step-by-step instructions:
